@@ -1,3 +1,3 @@
 # hello-world
 this is my first repository
-just create a new branch for testing
+just create a 2nd branch for testing
